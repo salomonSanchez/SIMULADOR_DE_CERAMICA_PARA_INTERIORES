@@ -1,6 +1,6 @@
 // sum.spec.js
-import sumar from "./sum.js";
+import sumar from './sum.js'
 
-  test("suma correcta", () => {
-    expect(sumar(1,3)).toBe(4)
-  })
+test('suma correcta', () => {
+  expect(sumar(1, 3)).toBe(4)
+})
