@@ -5,7 +5,6 @@
                  <menuSidebar></menuSidebar>
                  <h1>empesar a poner los componentes</h1>
                 <canvas id="tutorial" width="150" height="150" style="border: 1px solid black;"></canvas>
-
             </div> 
         </div>
          <footer>
