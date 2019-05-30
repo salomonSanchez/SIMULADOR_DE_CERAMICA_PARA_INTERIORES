@@ -1,11 +1,11 @@
 <template>
-    <div class="container" onload="draw(); resizeCanvas(e);">
+    <div class="container" onload="draw();">
+        <menuSidebar></menuSidebar>
         <div class="jumbotron text-center">
             <div class="d-flex justify-content-center h-100">
-                 <menuSidebar></menuSidebar>
-                 <h1>empesar a poner los componentes</h1>
+                 <h1>empesar a poner los componentes backend</h1>
                 <canvas id="tutorial" width="150" height="150" style="border: 1px solid black;"></canvas>
-            </div> 
+            </div>
         </div>
          <footer>
                 <div class="row">
